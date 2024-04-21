@@ -7,7 +7,7 @@ Welcome to the Inventory System Backend API documentation. This API serves as th
 **Base URL:**
 
 ```
-http://localhost:3000/v1/api-endpoints 
+[http://localhost:3000](https://inventory-system-production-1ea2.up.railway.app/v1/api-endpoints
 ```
 
 ## Authentication:
