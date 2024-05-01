@@ -3,3 +3,8 @@ This project is a comprehensive solution designed to efficiently manage and trac
 
 ## SQL Table
 ![alt text](https://github.com/mhaatha/inventory-system/blob/main/image/drawSQL-image-export-2024-05-01.png?raw=true)
+
+## Stack Used
+- Node.js (Express)
+- TypeScript
+- Prisma
