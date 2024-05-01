@@ -1,1 +1,2 @@
 # Inventory System
+This project is a comprehensive solution designed to efficiently manage and track inventory for business of all sizes. The primary goal of this project is to provide a centralized platform for inventory management, facilitating streamlined operations and ensuring optimal inventory control.
